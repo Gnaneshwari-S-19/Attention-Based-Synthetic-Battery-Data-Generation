@@ -37,3 +37,10 @@ The detailed descriptions about the arguments are as following:
 | freq | Freq for time features encoding (defaults to `h`). This can be set to `s`,`t`,`h`,`d`,`b`,`w`,`m` (s:secondly, t:minutely, h:hourly, d:daily, b:business days, w:weekly, m:monthly |
 
 On running the main code a `records` folder is created in which the prediction output is stored.
+
+## Acknowledgments 
+We appreciate the following github repository a lot for their valuable code base </br>
+https://github.com/nzl5116190/Basisformer
+
+Dataset source : Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power Sources 2019, 435, 226830. </br>
+https://web.calce.umd.edu/batteries/data.htm
