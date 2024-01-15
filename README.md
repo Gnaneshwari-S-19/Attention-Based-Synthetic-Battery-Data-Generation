@@ -34,7 +34,4 @@ The detailed descriptions about the arguments are as following:
 | pred_len | Prediction length refers to the number of time steps into the future for which the model generates predictions. |
 | target | Refers to the target variable chosen from the dataset |
 | freq | Freq for time features encoding (defaults to `h`). This can be set to `s`,`t`,`h`,`d`,`b`,`w`,`m` (s:secondly, t:minutely, h:hourly, d:daily, b:business days, w:weekly, m:monthly |
-
-
-
 On running the main code a `records` folder is created in which the prediction output is stored.
