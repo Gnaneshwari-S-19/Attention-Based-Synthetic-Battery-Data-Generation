@@ -2,7 +2,7 @@
 ## Get Started
 This project has been executed via google colab.
 
-###Steps to follow
+### Steps to follow
 1. Download the code as a zip file and extract the contents.
 
 2. Create a new folder in google drive and upload the extracted contents into it.
