@@ -23,7 +23,8 @@ This project has been executed via google colab.
 To train and evaluate the Informer model on a dataset the following command is used in the google colab notebook :
 
 ```train & evaluate
-%run main.py --features M --seq_len 96 --label_len 96 --pred_len 96 --target Charge_Capacity --freq s```
+%run main.py --features M --seq_len 96 --label_len 96 --pred_len 96 --target Charge_Capacity --freq s
+```
 The detailed descriptions about the arguments are as following:
 
 | Parameter name | Description of parameter |
